@@ -1,0 +1,75 @@
+@media (max-width: 1199.98px){
+    
+}
+@media (max-width: 991.98px){
+    
+   .navbar .nav-link{
+       width: 140px;
+       text-align: center;
+   }
+   
+   .navbar-nav{
+       align-items: center;
+   }
+   
+   .header{
+       padding: 200px 0;
+   }
+   .header h1{
+       font-size: 48px;
+   }
+   .pricing .col-lg-3{
+       margin-bottom: 50px;
+   }
+   .project{
+       padding-top: 50px;
+   }
+   footer .col-lg-3{
+       margin-bottom: 30px;
+   }
+   footer{
+       padding-bottom: 58px;
+   }
+}
+@media (max-width: 767.98px){
+    .header{
+        padding: 150px 0;
+    }
+    .header h1{
+        font-size: 30px;
+    }
+}
+@media (max-width: 575.98px){
+    .header{
+        padding: 100px 0;
+    }
+    section{
+        padding: 50px 0 !important;
+    }
+    
+    .services .col-lg-4{
+        margin-top: 50px;
+    }
+    .subtitle{
+        margin-bottom: 40px;
+    }
+    .project{
+        padding-top: 0;
+    }
+    .contact{
+        padding-top: 20px;
+    }
+    footer{
+        text-align: center;
+        padding: 50px 0 20px;
+    }
+    .footer-address{
+        align-items: center;
+    }
+    footer form{
+        justify-content: center;
+    }
+    .contact textarea{
+        height: 200px;
+    }
+}
